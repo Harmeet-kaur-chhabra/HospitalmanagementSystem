@@ -43,7 +43,7 @@ public class AdminReg extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		String insertquery = "INSERT INTO doctor VALUE(?,?,?,?,?,?,?,?,?)";
+		String insertquery = "INSERT INTO admin VALUE(?,?,?)";
 		Connection con;
 		try {
 			con = DBConnection.getConnection();
