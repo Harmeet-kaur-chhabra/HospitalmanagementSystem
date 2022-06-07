@@ -13,6 +13,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+     <h1>Appointment</h1>
     <form style="color:blu" action="SEND ADDRESS" id="ft-form" method="POST" accept-charset="UTF-8">
         <fieldset>
           <legend>For person</legend>
