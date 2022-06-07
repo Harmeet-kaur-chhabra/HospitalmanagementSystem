@@ -72,7 +72,7 @@ span.psw {
   <span class="psw">Don't have an account? <a href="patientreg.jsp">Create account</a></span>
 
   <div class="container" style="background-color:#f1f1f1">
-    <button type="button" class="loginbtn">login</button>
+    <a href="appointment.jsp"><button type="button" class="loginbtn">login</button>
   </div>
 </form>
 
